@@ -1,0 +1,180 @@
+Cluster 0
+our military (141), vet (56), our vet (51), military (40), the national guard (21), our troop (19), the military (17), our veteran (14), usmca (12), our marine (11), 
+
+Cluster 1
+you (5238), god (94), yourself (83), story (54), your (37), loser (32), my friend (29), your focus (26), the game (24), the story (23), 
+
+Cluster 2
+the democrats (414), the dem (115), the republicans (100), the dems (49), the dnc (32), nothing democrats (30), the debate (29), the gop (20), the angry democrats (17), the democrat party (14), 
+
+Cluster 3
+job (149), the job (54), work (27), daca (24), your job (24), worker (21), a job (20), unemployment (20), jobs (17), rate (17), 
+
+Cluster 4
+seanhannity (44), sleepy joe (44), schiff (34), bill (25), billmaher (20), adam schiff (16), mark levin (12), graydon carter (11), roger stone (10), michael cohen (9), 
+
+Cluster 5
+tax cut (15), taxpayer (8), massive tax cut (6), tax reform (6), big tax cut (5), tax cuts (5), the tax cut bill (5), a tax system (4), everybodys time and taxpayer money (4), irs (4), 
+
+Cluster 6
+place (135), the state (42), the great state (41), city (26), nyc (24), fema (17), the city (16), baltimore (13), the place (13), portland (11), 
+
+Cluster 7
+the (48), drug (41), security (35), control (33), safety (26), the right (24), peace (20), ice (19), gun (16), the answer (14), 
+
+Cluster 8
+president trump (92), the trump administration (24), trumpdoral (19), trump charlotte (12), trump tower (12), the whitehouse (8), trumpsoho (8), trumptowerny (8), realdonaldtrump (7), trump hater (7), 
+
+Cluster 9
+a great job (186), a fantastic job (56), the great work (29), an outstanding job (21), no choice (16), a tremendous job (14), an amazing job (13), an incredible job (13), your support (13), support (12), 
+
+Cluster 10
+the fbi (70), law enforcement (32), police (22), snowden (20), border patrol (15), the police (15), the department (14), our police (12), the justice department (11), the cia (10), 
+
+Cluster 11
+golf (40), the race (22), the team (19), the yankees (13), victory (12), a winner (11), the nfl (11), team (10), the war (9), troy (9), 
+
+Cluster 12
+the man (34), twitter (33), the lamestream media (27), mitt (24), oreillyfactor (18), cont (16), abc (13), msdnc (13), thegarybusey (13), agitator (12), 
+
+Cluster 13
+my administration (51), putin (27), kim jong un (21), leader (17), leadership (17), our leader (17), ivankatrump (15), president xi (15), the leader (13), chairman kim (11), 
+
+Cluster 14
+the border (52), our border (39), border security (36), open borders (31), illegal immigration (29), amnesty (27), border (24), illegal immigrant (21), strong border (15), human trafficking (14), 
+
+Cluster 15
+poll (35), the poll (13), new poll (10), every poll (8), a poll (7), poll number (6), all poll (5), our poll watchers (5), poll watcher (5), your polling location (5), 
+
+Cluster 16
+the economy (74), the fed (44), our economy (38), stock market (26), the stock market (21), growth (16), the establishment and special interest (16), the federal reserve (16), economy (15), stock (15), 
+
+Cluster 17
+the senate (47), sleepy joe biden (45), jeb bush (30), governor (27), cruz (26), mitt romney (25), the governor (22), schumer (18), kasich (17), romney (17), 
+
+Cluster 18
+she (669), her (144), woman (75), pelosi (33), nancy (30), celebrity apprentice (23), the apprentice (18), rosie (17), elizabeth warren (15), goofy elizabeth warren (14), 
+
+Cluster 19
+i (7610), what (989), that (807), nothing (443), let (114), time (71), good (68), the truth (62), whatever (38), ill (33), 
+
+Cluster 20
+people (602), everyone (268), the people (206), anyone (140), nobody (111), everybody (96), many people (68), anybody (44), no one (40), so many people (26), 
+
+Cluster 21
+our country (437), the u s (209), the usa (62), the american people (48), other country (43), the country (42), america great (38), america safe (37), our nation (37), a country (33), 
+
+Cluster 22
+the press (29), all credibility (22), zero credibility (17), foxandfriend (16), rating (15), nytime (13), report (12), anonymous source (11), article (8), credibility (8), 
+
+Cluster 23
+the whistleblower (33), justice (30), the supreme court (27), the court (26), witness (17), a lawyer (13), judge (12), justice roberts (10), lawsuit (10), lawyer (9), 
+
+Cluster 24
+the world (95), the public (25), family (24), the swamp (21), your family (19), anarchist (15), our community (14), community (12), antifa (11), the anarchist (11), 
+
+Cluster 25
+my complete and total endorsement (412), my full and total endorsement (28), my total endorsement (21), big crowd (20), my full endorsement (18), my full and complete endorsement (16), the endorsement (15), my strong endorsement (14), total endorsement (13), crowd (9), 
+
+Cluster 26
+year (27), overtime (18), today (18), the day (15), hour (10), month (10), the event (9), more year (8), tribute (8), an event (7), 
+
+Cluster 27
+care (66), information (31), energy (24), action (22), the power (19), your momentum (18), the process (17), the movement (16), power (14), responsibility (11), 
+
+Cluster 28
+entrepreneur (77), business (72), company (55), opec (41), the oil (21), small business (17), gas price (16), oil (13), our farmers (12), our farmer (11), 
+
+Cluster 29
+the medium (75), medium (31), mail (24), apple (20), the case (18), access (17), case (13), suit (12), enemy (11), official (11), 
+
+Cluster 30
+he (3447), who (259), himself (35), his wife (15), his family (14), his opponent (13), talent (13), his life (10), his show (10), his people (9), 
+
+Cluster 31
+one (164), a lot (125), the number (26), hundred (20), number (19), massive amount (15), two (14), less (13), zero (13), first responders (10), 
+
+Cluster 32
+they (4032), themselves (40), their job (31), their life (15), their (11), their partner (11), their time (9), their family (8), their way (8), their game (7), 
+
+Cluster 33
+president obama (125), the obama administration (33), he barackobama (15), barack obama (14), obama care (9), obama administration (7), barackobama s campaign (4), the barackobama campaign (4), barrack obama (3), michelle obama s luxurious aspen vacation (3), 
+
+Cluster 34
+amp (1638), someone (78), somebody (45), a man (34), myself (23), a speech (20), speech (19), a person (18), my son (18), my speech (14), 
+
+Cluster 35
+the election (127), election (33), your vote (32), an election (31), the vote (28), voter (19), ballot (18), the voter (16), this election (15), their vote (12), 
+
+Cluster 36
+million (194), billion (119), thousand (68), record (31), a terrible job (22), ten of thousand (20), hundred of thousand (14), the million (13), his record (12), macy (12), 
+
+Cluster 37
+all (333), other (166), anything (153), everything (148), thing (102), the fact (71), any (27), exactly what (24), problem (22), the way (22), 
+
+Cluster 38
+the obamacare website (8), obamacare premium (6), a new repeal amp replace healthcare bill (3), obamacare website (3), healthcare and tax cuts (2), obamacare romneycare architect gruber (2), romneycare obamacare architect gruber (2), the billion dollar obamacare website (2), the obamacare disaster (2), their billion dollar obamacare website (2), 
+
+Cluster 39
+medicare (25), regulation (13), great healthcare (9), policy (9), your healthcare plan (9), good news (6), great news (6), hospital (6), the regulation (6), your healthcare (5), 
+
+Cluster 40
+the federal government (48), the chinese (26), the government (24), our government (21), the kurds (21), saudi arabia (19), government (18), libya (15), the terrorist (14), nuclear weapon (12), 
+
+Cluster 41
+it (2610), this (554), which (535), something (154), those (142), be (110), a clue (70), m (65), the word (41), a (32), 
+
+Cluster 42
+the transcript (34), the transcripts (22), a bill (20), a news conference (20), legislation (12), a press conference (9), reform (9), a white house press conference (7), the bill (7), news conference (6), 
+
+Cluster 43
+my interview (22), no collusion (21), interview (12), collusion (7), an interview (5), the only collusion (5), bribery (4), my squawkcnbc interview (4), great interview (3), my foxbusiness interview (3), 
+
+Cluster 44
+the president (137), crooked hillary clinton (73), a president (56), president (26), politician (19), bush (18), politic (18), this president (18), no president (17), our president (17), 
+
+Cluster 45
+john (30), mike (30), james comey (25), jim (25), dan (23), tom (21), omarosa (19), steve (19), scott (18), alexsalmond (16), 
+
+Cluster 46
+money (124), the money (47), a fortune (45), credit (31), the price (31), trillion (28), billion dollar (23), price (19), funding (16), interest rate (16), 
+
+Cluster 47
+crime (74), your second amendment (52), the law (50), law (28), the second amendment (24), illegal (22), criminal (21), sanction (19), the constitution (16), your 2nd amendment (15), 
+
+Cluster 48
+our job (28), ebola (22), wind turbine (21), the vaccine (15), plan (12), covid (10), global warming (10), wind farm (10), a plan (8), a vaccine (8), 
+
+Cluster 49
+great (97), success (49), congratulation (40), a great time (38), thank (36), a chance (35), congrat (20), great thing (18), so much time (17), more time (16), 
+
+Cluster 50
+we (4715), the wall (84), the house (49), a wall (36), office (33), wall (28), farmer (20), freedom (15), our (15), keystone (12), 
+
+Cluster 51
+a rod (29), shirt (20), copy (18), google (17), child (16), email (16), tiger (13), w (13), a picture (10), co (9), 
+
+Cluster 52
+the fail nytime (33), fake news cnn (25), the failing new york times (22), the new york times (20), msnbc (17), the media (17), mini mike bloomberg (16), a great meeting (15), meeting (15), the news (14), 
+
+Cluster 53
+the radical left (52), my campaign (32), the radical left democrats (30), the trump campaign (22), more republican (15), house republicans (12), the left (11), the nomination (11), the radical left dems (11), a candidate (10), 
+
+Cluster 54
+a deal (90), tariff (55), deal (35), the deal (35), a great deal (23), the tariff (22), trade (22), negotiation (15), my offer (10), this deal (9), 
+
+Cluster 55
+more (209), much (138), many (136), big (85), some (81), advantage (53), lot (39), many other (35), most (30), enough (22), 
+
+Cluster 56
+jeb (29), karlrove (18), mariabartiromo (16), cuomo (14), rubio (12), doj (11), jebbush (11), pocahonta (11), erictrump (10), celebapprentice (9), 
+
+Cluster 57
+the rule (36), life (29), question (25), the life (25), the problem (25), the right thing (24), the question (21), attention (20), prayer (18), passion (17), 
+
+Cluster 58
+taxis (102), your taxis (51), high taxis (12), low taxis (6), all our taxis (4), corporate and capital gain taxis (3), city state and local taxis (2), little or no taxis (2), more taxis (2), a shock high taxis (1), 
+
+Cluster 59
+mueller (33), the witch hunt (32), the mueller report (22), robert mueller (17), the impeachment hoax (17), bob mueller (15), impeachment (14), this witch hunt (10), hoax (6), the rigged witch hunt (6), 
+
